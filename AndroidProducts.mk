@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_alioth.mk
+    $(LOCAL_DIR)/miku_alioth.mk
 
 COMMON_LUNCH_CHOICES := \
     aosp_alioth-user \
